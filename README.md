@@ -11,7 +11,7 @@
 👋 Hello, I'm **Manjunatha S.**  
 🎓 **Bachelor of Engineering** in Computer Science and Engineering.  
 💼 EX-Intern in **Abheyaantrics Soft Lab** as  Full Stack Web Development.  
-🛠️ Skilled in **MERN Stack Development** (MongoDB, Express.js, React.js, Node.js).
+🛠️ Skilled in **MERN Stack Development** (MongoDB, Express.js, React.js, Node.js).<br>
 🌐 Proficient in **front-end technologies** like **HTML5**, **CSS3**, and **JavaScript**, as well as **back-end development** with **Node.js** and **Express.js**.  
 📦 Experienced in building RESTful APIs, integrating databases like **MongoDB** and **MySQL**, and deploying scalable web applications.  
 🌱 Actively learning advanced concepts in MERN Stack to stay updated with industry trends.  
@@ -23,8 +23,9 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://www.leetcode.com/https://leetcode.com/u/manjunath26/" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/manjunath26/" height="30" width="40" />
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/manjunath26/" height="30" width="40"/>
   </a>
+  <a href="https://linkedin.com/in/www.linkedin.com/in/manjunath2002" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/manjunath2002" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
