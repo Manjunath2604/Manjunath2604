@@ -13,9 +13,8 @@
 💼 EX-Intern in **Abheyaantrics Soft Lab** as  Full Stack Web Development.  
 🛠️ Skilled in **MERN Stack Development** (MongoDB, Express.js, React.js, Node.js).<br>
 🌐 Proficient in **front-end technologies** like **HTML5**, **CSS3**, and **JavaScript**, as well as **back-end development** with **Node.js** and **Express.js**.  
-📦 Experienced in building RESTful APIs, integrating databases like **MongoDB** and **MySQL**, and deploying scalable web applications.  
 🌱 Actively learning advanced concepts in MERN Stack to stay updated with industry trends.  
-💡 Passionate about contributing to open-source projects and participating in **Hackathons**, particularly in **Cybersecurity** and **Ethical Hacking**.  
+💡 Passionate about contributing to open-source projects and participated in **Hackathons**, particularly in **Cybersecurity** and **Ethical Hacking**.  
 🏸 A sports enthusiast who enjoys **Cricket** and **Badminton**, thriving in both teamwork and individual challenges.  
 
 ---
