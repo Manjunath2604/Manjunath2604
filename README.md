@@ -6,7 +6,7 @@
 </p>
 
 ---
-
+ 
 ## 💫 About Me:
 👋 Hello, I'm **Manjunatha S.**  
 🎓 **Bachelor of Engineering** in Computer Science and Engineering.  
