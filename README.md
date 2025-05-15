@@ -5,7 +5,7 @@
   <img src="https://komarev.com/ghpvc/?username=manjunath2604&label=Profile%20views&color=0e75b6&style=flat" alt="manjunath2604" /> 
 </p>
 
----
+<!--
  
 ## 💫 About Me:
 👋 Hello, I'm **Manjunatha S.**  
@@ -17,7 +17,7 @@
 💡 Passionate about contributing to open-source projects and participated in **Hackathons**, particularly in **Cybersecurity** and **Ethical Hacking**.  
 🏸 A sports enthusiast who enjoys **Cricket** and **Badminton**, thriving in both teamwork and individual challenges.  
 
----
+-->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
